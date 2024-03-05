@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /kontak-kami
+Allow: /perusahaan
+Allow: /services
+Allow: /managed-service
+Allow: /interior-build
